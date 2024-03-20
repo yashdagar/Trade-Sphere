@@ -64,7 +64,7 @@ TradeSphere is open-source software licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or support, please contact the TradeSphere development team at tradesphere@example.com.
+For inquiries or support, please contact the TradeSphere development team at yashdagar4557@gmail.com.
 
 ---
 
